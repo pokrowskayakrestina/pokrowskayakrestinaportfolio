@@ -1,8 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <title>Портфолио Кристины Уколовой</title>
-  </head>
+ </head>
    <body>
     <h1>Портфолио</h1>
      <section>
